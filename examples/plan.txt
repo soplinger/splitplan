@@ -1,0 +1,8 @@
+# Club 2K time trial, negative-split plan
+name: Club 2K time trial
+distance: 2000 m
+split: 500 m
+target: 7:45.0
+strategy: negative 2%
+start: 3.0
+stroke_rate: 30

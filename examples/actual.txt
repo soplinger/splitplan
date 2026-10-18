@@ -1,0 +1,5 @@
+# split times from the erg monitor, one per line, in race order
+1:58.1
+1:57.9
+1:56.4
+1:53.8
